@@ -1,3 +1,6 @@
+# Dex2oat
+dalvik.vm.dex2oat64.enabled=true
+
 # IMS
 ro.telephony.block_binder_thread_on_incoming_calls=false
 
